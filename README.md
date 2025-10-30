@@ -71,9 +71,15 @@ Predicted and assigned cluster labels to each customer
 # 6. Dimensionality Reduction (PCA)
 Used Principal Component Analysis (PCA) to visualize clusters in 2D space.
 
+<img width="733" height="528" alt="Screenshot 2025-10-30 112715" src="https://github.com/user-attachments/assets/9391152b-0215-43c2-9131-dce7d2c61fd3" />
+
+
 # 7. Cluster Profiling
 Calculated mean values of numerical features for each cluster
 Identified key behavioral differences between customer groups
+
+<img width="1156" height="438" alt="Screenshot 2025-10-30 112805" src="https://github.com/user-attachments/assets/53822862-ca4c-465c-a2d0-c7ca3fd9c278" />
+
 
 # Results & Insights
 Cluster	Customer Type	Description
