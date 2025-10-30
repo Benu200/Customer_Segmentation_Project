@@ -53,6 +53,17 @@ Standardized numerical columns using StandardScaler to ensure equal importance i
 Applied Elbow Method and Silhouette Score to determine the ideal number of clusters.
 Found that 3 clusters gave the best balance between compactness and separation.
 
+<img width="707" height="528" alt="image" src="https://github.com/user-attachments/assets/e8e3818b-1ff6-473d-927e-3e95caa183b1" />
+
+
+
+
+
+
+
+
+
+
 # 5. Model Building (K-Means Clustering)
 Implemented K-Means with n_clusters = 3
 Predicted and assigned cluster labels to each customer
