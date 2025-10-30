@@ -53,15 +53,13 @@ Standardized numerical columns using StandardScaler to ensure equal importance i
 Applied Elbow Method and Silhouette Score to determine the ideal number of clusters.
 Found that 3 clusters gave the best balance between compactness and separation.
 
+
+<img width="723" height="524" alt="Screenshot 2025-10-30 105623" src="https://github.com/user-attachments/assets/63b2d509-5ee1-4ae6-bb90-cc3bb6c6b7ba" />
+Based on the Elbow Method, inertia decreases rapidly until k = 4, after which the curve flattens. Therefore, the optimal number of clusters is selected as 4.
+
 <img width="707" height="528" alt="image" src="https://github.com/user-attachments/assets/e8e3818b-1ff6-473d-927e-3e95caa183b1" />
-
-
-
-
-
-
-
-
+The Silhouette Score was calculated for values of k ranging from 2 to 10.
+The highest average Silhouette Score was obtained at k = 2, indicating that two clusters provide the best separation and compactness among the data points.
 
 
 # 5. Model Building (K-Means Clustering)
