@@ -88,15 +88,15 @@ Cluster 1	🟣 Moderate Spenders	Average income, balanced spending
 Cluster 2	🟡 Budget Customers	Low income, low spending — focus on discounts and offers
 
 # Technologies Used
-# Python
-# Pandas
-# Matplotlib
-# Seaborn
-# Scikit-learn
-# Jupyter Notebook
+#Python
+#Pandas
+#Matplotlib
+#Seaborn
+#Scikit-learn
+#Jupyter Notebook
 
 # Evaluation Metrics
-Elbow Method (for optimal clusters)
-Silhouette Score (for cluster quality)
+Elbow Method (for optimal clusters),
+Silhouette Score (for cluster quality),
 PCA Visualization (for interpretability)
 
