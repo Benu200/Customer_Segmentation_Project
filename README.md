@@ -100,3 +100,6 @@ Elbow Method (for optimal clusters),
 Silhouette Score (for cluster quality),
 PCA Visualization (for interpretability)
 
+# Conclusion
+This project demonstrates how unsupervised learning can help businesses identify valuable customer insights.
+By segmenting customers effectively, organizations can increase marketing efficiency, boost sales, and enhance overall customer experience.
