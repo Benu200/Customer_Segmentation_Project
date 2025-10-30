@@ -24,15 +24,14 @@ This project solves that problem by using unsupervised learning (K-Means) to fin
 # Dataset Information
 The dataset (customer_segmentation_dataset.csv) contains the following features:
 
-Column Name     	Description
-CustomerID	      Unique identifier for each customer
-Gender	          Gender of the customer
+CustomerID	:      Unique identifier for each customer
+Gender	   :       Gender of the customer
 Age	              Age of the customer
-Annual Income	    Annual income in currency value
-Spending Score	  Score assigned based on customer spending behavior
-Profession	      Occupation of the customer
-City	            City of residence
-Tenure (Years)	   Duration of customer relationship in years
+Annual Income	:    Annual income in currency value
+Spending Score	:  Score assigned based on customer spending behavior
+Profession	  :    Occupation of the customer
+City	       :     City of residence
+Tenure (Years)	:   Duration of customer relationship in years
 
 # Steps
 # 1. Data Preprocessing
